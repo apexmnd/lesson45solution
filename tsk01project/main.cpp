@@ -7,6 +7,7 @@ int main() {
 
 	for (int i = 0; i < DEFAULT_SIZE; i++) {
 		allay[i] = rand() % 101;
+
 	}
 
 	for (int i = 0; i < DEFAULT_SIZE; i++) {
